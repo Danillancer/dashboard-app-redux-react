@@ -1,0 +1,1 @@
+export const selectJobs = (state)=> state.JobsReducer.data
